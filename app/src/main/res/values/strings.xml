@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">ma-sme-compose</string>
+
+    <!-- Tabs -->
+    <string name="tab_main">Əsas</string>
+    <string name="tab_accounts">Hesablar</string>
+
+    <!-- Home Fragment -->
+    <string name="today_outcome">Məxaric</string>
+    <string name="today_income">Mədaxil</string>
+    <string name="common_balance_with_currency">Ümumi %1$s balans</string>
+    <string name="unsigned_payments_text"><b>%1$s</b> əməliyyat imzanızı gözləyir</string>
+    <string name="show_everything">Hamısına bax</string>
+    <string name="templates">Şablonlar</string>
+    <string name="last_transactions">Son əməliyyatlar</string>
+</resources>

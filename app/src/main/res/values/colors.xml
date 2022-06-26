@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <color name="black">#000000</color>
+    <color name="white">#FFFFFFFF</color>
+    <color name="green_bee">#BEE1D7</color>
+    <color name="green_058">#058D66</color>
+    <color name="yellow_eca">#ECA400</color>
+    <color name="gray_80">#808083</color>
+    <color name="gray_f2f7">#F2F2F7</color>
+
+    <!-- Border -->
+    <color name="border_unsigned_payments_count">@color/yellow_eca</color>
+
+    <!-- TextView -->
+    <color name="text_lazy_row_block_title">@color/black</color>
+    <color name="text_template_item_customer_name">@color/black</color>
+    <color name="text_transaction_item_customer_name">@color/black</color>
+    <color name="text_transaction_item_amount">@color/black</color>
+    <color name="text_bottom_nav">@color/black</color>
+    <color name="text_user_full_name">@color/white</color>
+    <color name="text_outcome_income_value">@color/white</color>
+    <color name="text_account_balance">@color/white</color>
+    <color name="text_template_item_account_name">@color/gray_80</color>
+    <color name="text_transaction_item_description">@color/gray_80</color>
+    <color name="text_customer_name">@color/green_bee</color>
+    <color name="text_today_outcome_income">@color/green_bee</color>
+    <color name="text_balance_currency_code">@color/green_bee</color>
+    <color name="text_lazy_row_block_button">@color/green_058</color>
+
+    <!-- Layout background -->
+    <color name="app_bottom_navigation">@color/white</color>
+    <color name="home_fragment_background">@color/gray_f2f7</color>
+    <color name="home_toolbar_background">@color/green_058</color>
+    <color name="cumulative_accounts_background">@color/green_058</color>
+
+
+</resources>
